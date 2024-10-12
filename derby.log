@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Oct 12 19:25:27 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0192-8103-42bf-00000f302668 
+on database directory E:\Java\ChampionsLeague\FootBallDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@61e4705b 
+Loaded from file:/E:/Java/db-derby-10.16.1.1-bin/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.4+7-LTS
+user.dir=E:\Java\ChampionsLeague
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
